@@ -17,7 +17,7 @@ A responsive calculator developed using **HTML**, **CSS**, and **JavaScript**. T
 
 ## Live Demo
 
-Check out the live version of the calculator: [Calculator App](https://your-github-username.github.io/Calculator/)
+Check out the live version of the calculator: [Calculator App](https://yashpatil-25.github.io/calculator/)
 
 ## Prerequisites
 

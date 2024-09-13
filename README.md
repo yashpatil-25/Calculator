@@ -26,4 +26,5 @@ Check out the live version of the calculator: [Calculator App](https://your-gith
 
 ## Sequence Diagram
 
-![To-Do-Sequence-Diagram](https://github.com/user-attachments/assets/fbb50031-038d-4dd8-b7b1-ce3047c14aa9)
+![Calculator-Sequence-Diagram](https://github.com/user-attachments/assets/5575927c-e9e1-4293-b81f-132c91d52e49)
+
